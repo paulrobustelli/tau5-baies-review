@@ -1,0 +1,22 @@
+{
+  "reference_energy_kJ_mol": {
+    "total": 8670.782272800001,
+    "bond": 5102.0244104,
+    "angle": 508.86481624000004,
+    "dihedral": 2749.77454776,
+    "nonbonded": 730.1276648,
+    "cmap": -420.00912456000003
+  },
+  "openmm_energy_kJ_mol": {
+    "HarmonicBondForce": 5102.024456500226,
+    "PeriodicTorsionForce": 3141.7675139380694,
+    "CustomNonbondedForce": 276.5859918628877,
+    "CMMotionRemover": 0.0,
+    "HarmonicAngleForce": 508.8648319677609,
+    "CMAPTorsionForce": -420.00912297757674
+  },
+  "openmm_total_kJ_mol": 8609.233671291368,
+  "force_difference_RMS_kJ_mol_nm": 0.01141495901488338,
+  "force_difference_max_kJ_mol_nm": 0.2152496154567416,
+  "reference_force_RMS_kJ_mol_nm": 1207.6096067422689
+}
