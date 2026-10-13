@@ -8,7 +8,7 @@ This repository contains WT and W397A/W433A (AA) ensembles for **GP–AR330–44
 - [Reference energy/force audit](energy_audit/README.md), with executable tests and [raw native test inputs, logs and force outputs](energy_audit/raw_reference_tests.zip)
 - [Simulation runner](results/bAIes_openMM.py), [force field and CMAP](results/inputs/), and per-construct topology, restraint parameters, transfer states, final states and production logs
 - [Numerical summary](results/summary.csv), [restraint-distance diagnostics](results/restraint_summary.csv), [WT–AA comparison](results/WT_AA_comparison.csv), and [trajectory provenance and hashes](results/trajectory_provenance.json)
-- [Raw trajectories and restart package](../../releases): full WT/AA trajectory segments, checkpoints and runner inputs are provided as a release asset; they are excluded from Git history because the trajectories exceed normal GitHub file limits.
+- [Raw trajectories and restart package](https://github.com/paulrobustelli/tau5-baies-review/releases/tag/review-2026-10-13): full WT/AA trajectory segments, checkpoints and runner inputs are provided as a release asset; they are excluded from Git history because the trajectories exceed normal GitHub file limits.
 
 ## What was run
 
