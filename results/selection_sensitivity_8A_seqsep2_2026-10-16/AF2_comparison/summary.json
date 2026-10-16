@@ -1,0 +1,18 @@
+[
+  {
+    "variant": "WT",
+    "frames": 20000,
+    "selected_restraints": 45,
+    "nonlocal_seqsep_gt3_contact_MAE": 0.006387628697293324,
+    "nonlocal_contact_Pearson_r": 0.8182658224999666,
+    "mean_selected_JS_divergence_nats": 0.10168935313681386
+  },
+  {
+    "variant": "AA",
+    "frames": 20000,
+    "selected_restraints": 37,
+    "nonlocal_seqsep_gt3_contact_MAE": 0.007339939591812578,
+    "nonlocal_contact_Pearson_r": 0.7978998673439373,
+    "mean_selected_JS_divergence_nats": 0.09862704876581554
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "inputs": {
+    "WT": {
+      "rank1_file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_WT_GP_330_447_a1110_0.tar/Tau5star_WT_GP_330_447_a1110_0/Tau5star_WT_GP_330_447_a1110_0_all_rank_001_alphafold2_ptm_model_2_seed_000.pickle",
+      "rank1_sha256": "bd528c62f4f1afc3ce61a07479326a40792e1fc8e2a7332a1010d5e6aa95bd8c",
+      "all_models": [
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_WT_GP_330_447_a1110_0.tar/Tau5star_WT_GP_330_447_a1110_0/Tau5star_WT_GP_330_447_a1110_0_all_rank_001_alphafold2_ptm_model_2_seed_000.pickle",
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_WT_GP_330_447_a1110_0.tar/Tau5star_WT_GP_330_447_a1110_0/Tau5star_WT_GP_330_447_a1110_0_all_rank_002_alphafold2_ptm_model_1_seed_000.pickle",
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_WT_GP_330_447_a1110_0.tar/Tau5star_WT_GP_330_447_a1110_0/Tau5star_WT_GP_330_447_a1110_0_all_rank_003_alphafold2_ptm_model_3_seed_000.pickle",
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_WT_GP_330_447_a1110_0.tar/Tau5star_WT_GP_330_447_a1110_0/Tau5star_WT_GP_330_447_a1110_0_all_rank_004_alphafold2_ptm_model_4_seed_000.pickle",
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_WT_GP_330_447_a1110_0.tar/Tau5star_WT_GP_330_447_a1110_0/Tau5star_WT_GP_330_447_a1110_0_all_rank_005_alphafold2_ptm_model_5_seed_000.pickle"
+      ],
+      "frames": 20000
+    },
+    "AA": {
+      "rank1_file": "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_AA_GP_330_447_b137f.tar/Tau5star_AA_GP_330_447_b137f/Tau5star_AA_GP_330_447_b137f_all_rank_001_alphafold2_ptm_model_2_seed_000.pickle",
+      "rank1_sha256": "e0d9caefc59bb95f9904611581ae1f4414ecfccef91218bcfc1d3ccc75b445ab",
+      "all_models": [
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_AA_GP_330_447_b137f.tar/Tau5star_AA_GP_330_447_b137f/Tau5star_AA_GP_330_447_b137f_all_rank_001_alphafold2_ptm_model_2_seed_000.pickle",
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_AA_GP_330_447_b137f.tar/Tau5star_AA_GP_330_447_b137f/Tau5star_AA_GP_330_447_b137f_all_rank_002_alphafold2_ptm_model_1_seed_000.pickle",
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_AA_GP_330_447_b137f.tar/Tau5star_AA_GP_330_447_b137f/Tau5star_AA_GP_330_447_b137f_all_rank_003_alphafold2_ptm_model_4_seed_000.pickle",
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_AA_GP_330_447_b137f.tar/Tau5star_AA_GP_330_447_b137f/Tau5star_AA_GP_330_447_b137f_all_rank_004_alphafold2_ptm_model_3_seed_000.pickle",
+        "/Users/paulrobustelli/Documents/Codex/2026-10-09/https-github-com-paulrobustelli-tau5-sec/work/af2_original_dropbox/Tau5star_AA_GP_330_447_b137f.tar/Tau5star_AA_GP_330_447_b137f/Tau5star_AA_GP_330_447_b137f_all_rank_005_alphafold2_ptm_model_5_seed_000.pickle"
+      ],
+      "frames": 20000
+    }
+  },
+  "contact_definition": "Cbeta-Cbeta, Calpha for glycine, distance <8A; differs from separately preserved closest-heavy <12A maps",
+  "AF2_contact_interpolation": "Uniform density within boundary bin; rank1 and equal five-model mean retained",
+  "distribution_comparison": "MD binned on AF2 edges, including unresolved overflow; JS in natural-log units; selected restraints only. Distograms are prediction probabilities, not experimental equilibrium distributions."
+}
